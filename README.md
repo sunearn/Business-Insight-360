@@ -10,7 +10,7 @@ Robust Data Modeling: Integrated data from over 10 tables to ensure a comprehens
 User-Centric Dashboard Design: Created intuitive, user-friendly dashboards that allow stakeholders to navigate and explore data effortlessly.
 Drillable Insights: Enabled stakeholders to drill down into data for deeper insights, facilitating informed decision-making.
 
-Skills Used
+Skills Used:
 Power BI: Dashboard creation and data visualization
 SQL: Data querying and manipulation
 DAX: Advanced calculations and metrics
@@ -18,14 +18,14 @@ Power Query: Data transformation and preparation
 Data Modeling: Integrating and optimizing multiple data sources
 Dashboard Design: User interface design and user experience optimization
 
-Learnings
+Learnings:
 Mastered Power Query for both basic and advanced data transformation operations, ensuring data integrity and accuracy.
 Developed expertise in DAX formulas, allowing for the creation of complex calculations for precise metric representation.
 Gained practical experience in data modeling, optimizing relationships to enhance analysis.
 Learned effective dashboard design principles, focusing on visual appeal and user engagement.
 Implemented stakeholder feedback mechanisms for continuous improvement of the dashboard.
 
-Outcomes
+Outcomes:
 Improved decision-making processes by transitioning from static Excel reports to interactive dashboards, enabling real-time insights.
 Fostered a data-driven culture within AtliQ Hardwares, empowering teams to leverage data for strategic initiatives.
 Enhanced collaboration across departments by providing a single source of truth for financial, sales, marketing, and supply chain metrics.
